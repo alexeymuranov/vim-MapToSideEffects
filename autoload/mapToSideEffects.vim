@@ -1,7 +1,7 @@
 " autoload/mapToSideEffects.vim
 "
 " Plugin Name:  Map To Side Effects
-" Version:      0.1.0
+" Version:      0.1.1.pre
 " Last Change:  2016-04-07
 " Author:       Alexey Muranov <alexeymuranov@users.noreply.github.com>
 "
